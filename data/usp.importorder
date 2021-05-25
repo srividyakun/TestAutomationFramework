@@ -1,0 +1,9 @@
+#Organize import oder
+7=\#org.mockito
+6=\#org.junit
+5=\#org.hamcrest
+4=\#com.bmw
+3=java
+2=javax
+1=org
+0=com
