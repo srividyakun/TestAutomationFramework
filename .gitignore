@@ -1,5 +1,6 @@
 # Default ignored files
 /shelf/
-/.idea/
+/.idea
+/.idea/workspace.xml
 /BaseArchitecture.iml
 
