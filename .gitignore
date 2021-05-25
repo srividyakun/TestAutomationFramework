@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/.idea
-/JavaPractice.iml
-/out
-/target
+/.idea/
+/BaseArchitecture.iml
+/target/
+
